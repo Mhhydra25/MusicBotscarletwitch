@@ -28,8 +28,8 @@ async def start(bot, message):
     text=f"**Hey {message.from_user.mention} 🌺, I'm An Advanced Music Bot and A Song Recognise Bot, I'm Only Made For Kerala Beats**\n\n**Bot Uptime : {uptime}**",
     reply_markup=InlineKeyboardMarkup(
       [[
-        InlineKeyboardButton("♬ Group", url="https://t.me/KeralaMusicHubRedirect"),
-        InlineKeyboardButton("҂ Updates", url="https://t.me/sakurabotupdates")
+        InlineKeyboardButton("♬ Group", url="https://t.me/SONGSDOWNLOADERV3"),
+        InlineKeyboardButton("҂ Updates", url="https://t.me/Newcinemazz")
      ],[
         InlineKeyboardButton("↻ Close", callback_data="close")
       ]]
